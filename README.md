@@ -1,2 +1,2 @@
 # POO
-Lista de exercícios de Programação orientada a objetos feitos em java
+Lista de exercícios de Programação Orientada a Objetos feitos em java
